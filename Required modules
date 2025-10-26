@@ -1,0 +1,29 @@
+✅ Required Modules
+
+tkinter – for GUI
+(Built-in module in Python — no installation needed)
+
+pyqrcode – to generate QR codes
+🔧 Install using:
+
+bash:
+pip install pyqrcode
+
+
+pypng – used internally by pyqrcode for saving PNG files
+🔧 Install using:
+
+bash:
+pip install pypng
+
+
+Pillow – for image handling (opening and displaying PNG)
+🔧 Install using:
+
+bash:
+pip install Pillow
+
+✅ Final Installation Command (all together):
+
+bash:
+pip install pyqrcode pypng Pillow
